@@ -1,0 +1,57 @@
+#zahid3d9-aside {
+  padding-top: 3em;
+  padding-bottom: 40px;
+  padding-left: 3em;
+  padding-right: 3em;
+  width: 22%;
+  position: fixed;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  overflow-y: hidden;
+  z-index: 1001;
+  background: #009688;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.ftco-bread {
+  background: #2a9689 !important;
+  padding: 4em 1.8em !important;
+  border-left: 3px solid #ffffff;
+}
+.block-27 ul li.active a, .block-27 ul li.active span {
+  background: #2a9689;
+  color: #fff;
+  border: 1px solid transparent;
+}
+.btn.btn-primary {
+  background: #2a9689;
+  border: 1px solid #00ffe0;
+  color: #fff;
+}
+.btn.btn-primary:hover {
+  border: 1px solid #ffffff;
+  background: #242423;
+  color: #ffffff;
+}
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
+  color: #ffffff;
+  background-color: #2a9689;
+  border-color: #3fc3e8;
+}
+a {
+  -webkit-transition: .3s all ease;
+  -o-transition: .3s all ease;
+  transition: .3s all ease;
+  color: #2a9689ab;
+}
+.tagcloud a:hover {
+  border: 1px solid #2a9689;
+}
+.block-21 .text .heading a:hover, .block-21 .text .heading a:active, .block-21 .text .heading a:focus {
+  color: #2a9689;
+}
