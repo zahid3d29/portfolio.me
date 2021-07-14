@@ -55,3 +55,14 @@ a {
 .block-21 .text .heading a:hover, .block-21 .text .heading a:active, .block-21 .text .heading a:focus {
   color: #2a9689;
 }
+.hero-wrap .text h1 {
+  letter-spacing: 1px;
+  font-weight: 900;
+  color: #2a9689;
+}
+.ftco-counter .text strong.number {
+  font-weight: 400;
+  font-size: 40px;
+  color: #2a9689;
+  width: 50%;
+}
