@@ -108,3 +108,8 @@ a {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+@media screen and ( max-width: 425px ){
+  .desc {
+      max-height: 36rem;
+  }
+}
