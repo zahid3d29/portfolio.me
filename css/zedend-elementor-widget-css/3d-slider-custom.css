@@ -26,16 +26,15 @@
 .nav-arrows a {
 	width: 42px;
 	height: 42px;
-	background: #cbbfae url(../images/nav.png) no-repeat top left;
+	background: #00000099 url(../images/nav.png) no-repeat top left;
 	position: absolute;
 	top: 50%;
-	left: 2px;
 	text-indent: -9000px;
 	cursor: pointer;
 	margin-top: -21px;
 	opacity: 0.9;
-	border-radius: 50%;
-	box-shadow: 0 1px 1px rgba(255,255,255,0.8);
+	border-radius: 0%;
+	box-shadow: 0 1px 1px rgb(255 255 255 / 0%);
 }
 
 .nav-arrows a:first-child{
